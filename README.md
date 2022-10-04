@@ -23,7 +23,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chen-196-hub&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chen-196-hub&theme=2077)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-196-hub&count_private=true&show_icons=true&theme=dark)　[![GitHub Streak](https://streak-stats.demolab.com?user=chen-196-hub&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chen-196-hub&count_private=true&show_icons=true&theme=dark)[![GitHub Streak](https://streak-stats.demolab.com?user=chen-196-hub&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
